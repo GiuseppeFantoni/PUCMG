@@ -1,17 +1,10 @@
 N:2
-3acm
-3ibm
 a
 i
 N:3
-3acm
-7malform
-5mouse
 a
 m
 m
 N:2
-2ok
-2ok
 o
 o
