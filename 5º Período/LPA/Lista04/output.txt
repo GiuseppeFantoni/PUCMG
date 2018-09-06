@@ -1,10 +1,7 @@
-N:2
 a
 i
-N:3
 a
 m
 m
-N:2
 o
 o
