@@ -1,3 +1,3 @@
 Pontifícia Universidade Católica de Minas Gerais
 
-Repositório para os trabalhos acadêmicos.
+Repositório criado para postagem dos trabalhos acadêmicos.
