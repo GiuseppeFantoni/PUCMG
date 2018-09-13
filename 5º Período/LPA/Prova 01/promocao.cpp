@@ -7,7 +7,7 @@ struct produto {
   int peso, valor;
     produto(int a, int b) {
       valor = a;
-      peso  = b ;
+      peso  = b;
     }
 };
 
