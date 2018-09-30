@@ -1,6 +1,6 @@
 import networkx as nx
 
-def main():
+if __name__ == "__main__": 
   str = input("")
 
   n, m = str.split(" ") #m = numero juncoes byteland e n = numero de estradas em byteland
